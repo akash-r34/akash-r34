@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akash R</h1>
+<div align-"center">
+<img alt="Akash R's Cover image" src="https://user-images.githubusercontent.com/113085803/230710747-cad1e90d-3c93-44f2-8719-7e71a5e1b518.gif">
+</div>
+
 <h3 align="center">An aspiring Computer Science student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-r34&label=Profile%20views&color=0e75b6&style=flat" alt="akash-r34" /> </p>
@@ -37,28 +41,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-r34&show_icons=true&locale=en" alt="akash-r34" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-r34&" alt="akash-r34" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
