@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **akash34srinivasan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bC4yW9pIiPBsQHocchQpzMsTV5PWAbMs/view?usp=share_link](https://drive.google.com/file/d/1bC4yW9pIiPBsQHocchQpzMsTV5PWAbMs/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KJqb1bzBDyScjzxOJ4rTJrObmYBeWBKB/view?usp=share_link](https://drive.google.com/file/d/1KJqb1bzBDyScjzxOJ4rTJrObmYBeWBKB/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
