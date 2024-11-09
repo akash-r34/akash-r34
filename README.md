@@ -30,7 +30,7 @@
 <a href="https://twitter.com/akashr05394329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashr05394329" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akash-r-741979230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-r-741979230" height="30" width="40" /></a>
 <a href="https://instagram.com/_r_akash__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_r_akash__" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/akash-r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/akash-r/" height="30" width="40" /></a>
+<a href="https://leetcode.com/akash-r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/akash-r/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
